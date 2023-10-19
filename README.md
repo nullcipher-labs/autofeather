@@ -6,29 +6,21 @@ a photoshop automation script that iterates over all images in a directory and c
 
 see the user manual odf on how to use the finished program.
 
-an exe version can be found here:
-https://drive.google.com/file/d/1DKRQFikxGh_O522vp7QbmRSAP-8YQh1v/view?usp=share_link
+an exe version can be found here:<br>https://drive.google.com/file/d/1DKRQFikxGh_O522vp7QbmRSAP-8YQh1v/view?usp=share_link
 
 # prerequisites
 
 Using pip or any other way, you will need the modules:
 
-  PyQt5
-  https://pypi.org/project/PyQt5/
-  pip install PyQt5
-
-  filetype
-  https://pypi.org/project/filetype/
-  pip install filetype
-
-  Pillow
-  https://pypi.org/project/Pillow/
-
-  comtypes
-  https://pypi.org/project/comtypes/
-
-  pywin32
-  https://pypi.org/project/pywin32/
+  PyQt5<br>https://pypi.org/project/PyQt5/<br>pip install PyQt5
+  <br><br>
+  filetype<br>https://pypi.org/project/filetype/<br>pip install filetype
+  <br><br>
+  Pillow<br>https://pypi.org/project/Pillow/
+  <br><br>
+  comtypes<br>https://pypi.org/project/comtypes/
+  <br><br>
+  pywin32<br>https://pypi.org/project/pywin32/
 
 # python project
 
